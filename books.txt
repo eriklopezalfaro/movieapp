@@ -1,0 +1,4 @@
+hhhh,hh,0
+aa,aa,1
+dd,dd,1
+sss,sss,0
